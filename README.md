@@ -9,7 +9,7 @@ I am a Computer Science Student @ Excel engineering college
 - 💬 Ask me about Tech
 - 😄 Pronounce:Techie
 - 📫 How to reach me:
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/#) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/#/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr_imperfect_smile?igsh=ZTJlYW50aWdpMnQw)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/#) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohan-kumar-5299802a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr_imperfect_smile?igsh=ZTJlYW50aWdpMnQw)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
