@@ -2,7 +2,7 @@
 
 I am a Computer Science Student @ Excel engineering college 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](mohan-s-portfolio-seven.vercel.app)                                                 
+- 🔭 Here's my [portfolio](https://mohan-s-portfolio-seven.vercel.app)                                                 
 - 🌱 I’m currently learning DSA and Prompt engineering 
 - ⚡ Fun fact: I know What is programming.
 - 🥱 I'm looking for help with placement 
